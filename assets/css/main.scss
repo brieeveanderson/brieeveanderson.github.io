@@ -41,29 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* ==== Sidebar font size overrides ==== */
-
-/* Entire sidebar */
-.page__sidebar {
-  font-size: 1.2rem;
-}
-
-/* Name */
-.page__sidebar .author__name {
-  font-size: 1.6rem;
-}
-
-/* Bio */
-.page__sidebar .author__bio {
-  font-size: 1.25rem;
-}
-
-/* Links */
-.page__sidebar .author__urls {
-  font-size: 1.2rem;
-}
-
-.page__sidebar {
-  background: red !important;
-}
