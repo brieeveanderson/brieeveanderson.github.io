@@ -44,22 +44,22 @@
 
 /* ==== Sidebar font size overrides ==== */
 
-/* General sidebar text */
-.sidebar {
+/* Entire sidebar */
+.page__sidebar {
   font-size: 1.2rem;
 }
 
-/* Your name */
-.author__name {
-  font-size: 1.5rem;
+/* Name */
+.page__sidebar .author__name {
+  font-size: 1.6rem;
 }
 
-/* Bio text */
-.author__bio {
+/* Bio */
+.page__sidebar .author__bio {
+  font-size: 1.25rem;
+}
+
+/* Links */
+.page__sidebar .author__urls {
   font-size: 1.2rem;
-}
-
-/* Links (email, location, etc.) */
-.author__urls {
-  font-size: 1.15rem;
 }
