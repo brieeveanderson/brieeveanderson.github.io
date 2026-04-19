@@ -41,3 +41,25 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==== Sidebar font size overrides ==== */
+
+/* General sidebar text */
+.sidebar {
+  font-size: 1.2rem;
+}
+
+/* Your name */
+.author__name {
+  font-size: 1.5rem;
+}
+
+/* Bio text */
+.author__bio {
+  font-size: 1.2rem;
+}
+
+/* Links (email, location, etc.) */
+.author__urls {
+  font-size: 1.15rem;
+}
