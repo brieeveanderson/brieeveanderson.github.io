@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "Research"
+title: "test"
 ---
 
 Your content here.
