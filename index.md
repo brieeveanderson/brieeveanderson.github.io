@@ -12,10 +12,9 @@ Since then, I have been physics faculty at [American University](https://www.ame
 
 ## Personal
 
-I spend a lot of time listening to and playing music. For a while, I was the drummer of the post-rock band [The Orchid](https://theorchid.bandcamp.com/album/apogee-perigee) and I currently play baritone guitar in a completely improvised experimental project called [Fanoplane](https://fanoplane.bandcamp.com/album/live-at-the-black-cat). 
+I spend a lot of time listening to and playing music. For a while, I was the drummer of the post-rock band [The Orchid](https://theorchid.bandcamp.com/album/apogee-perigee), and I currently play baritone guitar in a completely improvised experimental project called [Fanoplane](https://fanoplane.bandcamp.com/album/live-at-the-black-cat). 
 
-Music that's been on my stereo recently: [Anna von Hausswolff](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN?si=qeHlPqjWQ3Sazi9wHXDALA), [MØL](https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22?si=XIQl9Ey_RiOXjJ8wReTsmg), [Godflesh](https://open.spotify.com/album/5fRIh0Yk4eFLst6Nj7RUDF?si=-MIE9ldPQqecvEBiVxsAHw), [J Dilla](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW?si=CwEe6kg6R7aTbe4R2UdhDg), and [Tigran Hamasyan](https://open.spotify.com/album/5DksO6hOezz6mTfYOctZ6f?si=lGkIz3hqRemOoUM2pwkH-A).
-
+Music that's been on my stereo recently in May 2026: [Anna von Hausswolff](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN?si=qeHlPqjWQ3Sazi9wHXDALA), [MØL](https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22?si=XIQl9Ey_RiOXjJ8wReTsmg), [Godflesh](https://open.spotify.com/album/5fRIh0Yk4eFLst6Nj7RUDF?si=-MIE9ldPQqecvEBiVxsAHw), [J Dilla](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW?si=CwEe6kg6R7aTbe4R2UdhDg), and [Tigran Hamasyan](https://open.spotify.com/album/5DksO6hOezz6mTfYOctZ6f?si=lGkIz3hqRemOoUM2pwkH-A).
 
 
 {% comment %}
