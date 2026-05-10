@@ -6,7 +6,7 @@ layout: homepage
 
 I am an experimental physicist specializing in classical and quantum optics, nonlinear optics, atomic physics, quantum sensing, quantum information, and optomechanics.
 
-I often teach quantum mechanics, statistical mechanics, and experimental physics. I am a NJ native and have bachelors degrees in physics and math from the University of Rochester. I received my PhD in physics from the University of Arizona where I did experimental work on quantum state preparation and quantum state tomography in cold cesium atoms. Afterwards, I was a Joint Quantum Institute Experimental Postdoctoral Fellow working on nonlinear and quantum optics at NIST Gaithersburg and the University of Maryland campus. I am still adjunct faculty at the University of Maryland.
+I often teach quantum mechanics, statistical mechanics, and experimental physics. I am a NJ native and have bachelors degrees in [physics](https://www.pas.rochester.edu/) and [math](https://www.sas.rochester.edu/mth/) from the University of Rochester. I received my PhD in [physics](https://physics.arizona.edu/) from the University of Arizona where I did experimental work on quantum state preparation and quantum state tomography in cold cesium atoms. However, I performed my work at their [College of Optical Sciences](https://optics.arizona.edu/). Afterwards, I was a [Joint Quantum Institute](https://jqi.umd.edu/) Experimental Postdoctoral Fellow working on nonlinear and quantum optics at [NIST](https://www.nist.gov/) Gaithersburg and the University of Maryland campus. I am still adjunct faculty at the University of Maryland.
 
 ## Personal
 
