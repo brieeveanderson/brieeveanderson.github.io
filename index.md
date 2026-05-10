@@ -12,7 +12,7 @@ Since then, I have been physics faculty at [American University](https://www.ame
 
 ## Personal
 
-I spend a lot of time listening to and playing music. For a while, I was the drummer of the post-rock band [The Orchid](https://theorchid.bandcamp.com/album/apogee-perigee), and I currently play baritone guitar in a completely improvised experimental project called [Fanoplane](https://fanoplane.bandcamp.com/album/live-at-the-black-cat). Seeing what I've been listening to on [last.fm](https://www.last.fm/user/brieeveanderson).
+I spend a lot of time listening to and playing music. For a while, I was the drummer of the post-rock band [The Orchid](https://theorchid.bandcamp.com/album/apogee-perigee), and I currently play baritone guitar in a completely improvised experimental project called [Fanoplane](https://fanoplane.bandcamp.com/album/live-at-the-black-cat). See what I've been listening to on [last.fm](https://www.last.fm/user/brieeveanderson).
 
 
 {% comment %}
