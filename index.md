@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an experimental physicist specializing in classical and quantum optics, atomic physics, quantum sensing, quantum information, and optomechanics. 
 
 ## Research Interests
 
