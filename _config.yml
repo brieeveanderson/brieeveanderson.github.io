@@ -1,22 +1,21 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Brielle Evelyn Anderson
+position: Associate Professor of Physics
+affiliation: American University, Washington DC
+email: banderson (at) american.edu
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: quantum information, optics, quantum optics, atomic physics, rydbergs, physics, associate professor, american university, AMO
+description: Brie Anderson is an associate professor of physics at American University (Washington, DC) specializing in AMO/quantum.
+canonical: https://brieeveanderson.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=zlMG26QAAAAJ&hl=en
+OrchidID: https://orcid.org/0000-0002-3234-3724
+# cv_link: assets/files/curriculum_vitae.pdf
+# github_link: https://github.com/
+linkedin: https://www.linkedin.com/in/brielle-evelyn-anderson/
+#twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
