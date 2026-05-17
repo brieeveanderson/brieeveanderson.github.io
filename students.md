@@ -6,12 +6,12 @@ title: "students"
 <div class="student-list">
 
   <div class="student">
-    <img src="/assets/images/students/evelyn-bristol.jpg" alt="Evelyn Bristol">
+    <img src="/assets/img/students/evelyn-bristol.jpg" alt="Evelyn Bristol">
     <p><strong>Evelyn Bristol</strong>: PhD student at <a href="https://physics.illinois.edu/">UIUC</a></p>
   </div>
 
   <div class="student">
-    <img src="/assets/images/students/madeleine-bartin.jpg" alt="Madeleine Bartin">
+    <img src="/assets/img/students/madeleine-bartin.jpg" alt="Madeleine Bartin">
     <p><strong>Madeleine Bartin</strong>: PhD student at <a href="https://physics.washu.edu/">Wash U</a></p>
   </div>
 
