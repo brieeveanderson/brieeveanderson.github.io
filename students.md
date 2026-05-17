@@ -6,7 +6,7 @@ title: "students"
 <div class="student-list">
 
   <div class="student">
-    <img src="/assets/img/students/evelyn-bristol.jpg" alt="Evelyn Bristol" style="width:70px; height:70px; object-fit:cover; border-radius:50%;">
+    <img src="/assets/img/students/evelyn-bristol.jpg" alt="Evelyn Bristol">
     <p><strong>Evelyn Bristol</strong>: PhD student at <a href="https://physics.illinois.edu/">UIUC</a></p>
   </div>
 
