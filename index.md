@@ -10,7 +10,7 @@ Since then, I have been physics faculty at [American University](https://www.ame
 
 ## Research
 
-I am an experimental physicist specializing in classical and quantum optics, nonlinear optics, atomic physics, quantum sensing, quantum information, and optomechanics. You can see my publications on [Google Scholar](https://scholar.google.com/citations?user=zlMG26QAAAAJ) and [ORCID](https://orcid.org/0000-0002-3234-3724). See who my [current and former students](https://brieeveanderson.github.io/students) are.
+I am an experimental physicist specializing in classical and quantum optics, nonlinear optics, atomic physics, quantum sensing, quantum information, and optomechanics. You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=zlMG26QAAAAJ) and [ORCID](https://orcid.org/0000-0002-3234-3724). See who my [current and former students](https://brieeveanderson.github.io/students) are.
 
 ## Personal
 
