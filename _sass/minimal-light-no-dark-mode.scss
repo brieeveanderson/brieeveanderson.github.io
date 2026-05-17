@@ -516,3 +516,28 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+// --- Student / Alumni list ---
+.student-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  margin-top: 1rem;
+}
+
+.student {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.student img {
+  width: 140px !important;
+  height: 140px !important;
+  max-width: 140px !important;
+  min-width: 140px !important;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+  display: block;
+}
