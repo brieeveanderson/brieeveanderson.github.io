@@ -60,7 +60,7 @@ title: "students"
 
   <div class="student">
     <img src="/assets/img/students/blank.jpg" alt="Francesca Ark">
-    <p><strong>Francesca Ark</strong></p>
+    <p><strong>Franscesca Ark</strong></p>: PhD student at <a href="https://naturalsciences.uoregon.edu/physics">Oregon</a></p>
   </div>
 
   <div class="student">
@@ -70,7 +70,7 @@ title: "students"
 
   <div class="student">
     <img src="/assets/img/students/blank.jpg" alt="Maya Kinley-Hanlon">
-    <p><strong>Maya Kinley-Hanlon</strong></p>
+    <p><strong>Maya Kinley-Hanlon</strong></p> Asst Teaching Professor and Laboratory Manager at <a href="https://physics.sciences.ncsu.edu/">NC State</a></p>
   </div>
 
   <div class="student">
