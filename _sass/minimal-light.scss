@@ -611,8 +611,9 @@ footer {
 }
 
 .student img {
-  width: 70px;
-  height: 70px;
+  width: 70px !important;
+  height: 70px !important;
+  max-width: 70px !important;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
