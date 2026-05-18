@@ -29,7 +29,7 @@ title: "students"
   </div>
 
   <div class="student">
-    <img src="/assets/img/students/blank.jpg" alt="Ally Friedman">
+    <img src="/assets/img/students/ally-friedman.jpg" alt="Ally Friedman">
     <p><strong>Ally Friedman</strong>: PhD student at <a href="https://optics.arizona.edu/">Arizona</a></p>
   </div>
 
