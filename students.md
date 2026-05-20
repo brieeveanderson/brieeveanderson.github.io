@@ -5,7 +5,6 @@ title: "students"
 
 ## Current Students
 
-
 <div class="student-list">
 
   <div class="student">
@@ -17,9 +16,12 @@ title: "students"
     <img src="/assets/img/students/zoe-martin.jpg" alt="Zoe Martin">
     <p><strong>Zoe Martin</strong></p>
   </div>
+</div>
 
 ## Alumni
 
+<div class="student-list">
+  
   <div class="student">
     <img src="/assets/img/students/evelyn-bristol.jpg" alt="Evelyn Bristol">
     <p><strong>Evelyn Bristol</strong>: PhD student at <a href="https://physics.illinois.edu/">UIUC</a></p>
