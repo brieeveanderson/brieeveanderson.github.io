@@ -3,7 +3,7 @@ layout: homepage
 title: "students"
 ---
 
-## Students
+## Current Students
 
 
 <div class="student-list">
@@ -14,9 +14,11 @@ title: "students"
   </div>
 
   <div class="student">
-    <img src="/assets/img/students/blank.jpg" alt="Zoe Martin">
+    <img src="/assets/img/students/zoe-martin.jpg" alt="Zoe Martin">
     <p><strong>Zoe Martin</strong></p>
   </div>
+
+## Alumni
 
   <div class="student">
     <img src="/assets/img/students/evelyn-bristol.jpg" alt="Evelyn Bristol">
