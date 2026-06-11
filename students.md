@@ -39,7 +39,7 @@ title: "students"
   </div>
 
   <div class="student">
-    <img src="/assets/img/students/blank.jpg" alt="Benjamin Kanzer">
+    <img src="/assets/img/students/ben-kanzer.jpeg" alt="Benjamin Kanzer">
     <p><strong>Benjamin Kanzer</strong>: PhD student at <a href="https://optics.arizona.edu/">Arizona</a></p>
   </div>
 
